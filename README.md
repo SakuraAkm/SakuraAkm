@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available here in github
 
-- 💬 My best projects are uploaded on Vercel, <a href="https://sidebar-website.vercel.app">here!</a>
+- 💬 My best projects are uploaded on Vercel, <a href="https://sidebar-website.vercel.app">here an example!</a>
 
 - 📫 How to reach me: rinaldialex332@gmail.com
 
