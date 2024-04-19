@@ -4,7 +4,7 @@
 <img align="right" alt="Coding Gif" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
 
-- ✨ I’m currently improving my Frontend skills
+- ✨ I’m currently working as a Frontend Developer
 
 - 👨‍💻 All of my projects are available here in github
 
